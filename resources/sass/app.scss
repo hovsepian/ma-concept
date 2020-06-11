@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "RobotoBold";
+  src: url("../../public/fonts/Roboto-bold.ttf");
+}
+@font-face {
+  font-family: "RobotoRegular";
+  src: url("../../public/fonts/Roboto-regular.ttf");
+}
+@font-face {
+  font-family: "Bebas";
+  src: url("../../public/fonts/BebasNeue-Regular.ttf");
+}
+.text-center {
+  text-align: center;
+}
+.container-fluid{
+  padding-left: 140px !important;
+  padding-right: 140px !important;
+  @media(max-width: 1100px) {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+}
+body {
+  position: relative;
+}
+.is-invalid {
+  border: 1px solid red !important;
+}
+
+@import "banner";
+@import "header";
+@import "about";
+@import "services";
+@import "credentials";
+@import "contact";
+@import "footer";
+@import "popup";
+@import "data";

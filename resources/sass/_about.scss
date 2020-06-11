@@ -1,0 +1,43 @@
+.about {
+  margin-top: 120px;
+  @media(max-width: 767px) {
+    margin-top: 40px;
+  }
+  h2 {
+    font-size: 40px;
+    font-family: RobotoBold;
+    padding-bottom: 40px;
+    @media(max-width: 767px) {
+      font-size: 30px;
+    }
+  }
+  &_container {
+    h3 {
+      font-size: 24px;
+      font-family: RobotoBold;
+    }
+    p {
+      font-size: 18px;
+      font-family: RobotoRegular;
+      margin-bottom: 30px;
+    }
+    img {
+      margin-bottom: 60px;
+    }
+    h5 {
+      font-weight: normal;
+      font-size: 18px;
+      font-family: RobotoRegulars;
+    }
+    ul {
+      padding: 0px 0 0 20px;
+      font-family: RobotoRegular;
+    }
+    .col-12:nth-child(3) {
+      @media(max-width: 767px) {
+        order: 1;
+      }
+    }
+  }
+
+}

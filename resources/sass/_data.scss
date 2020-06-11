@@ -1,0 +1,18 @@
+.data {
+  h1 {
+    margin-bottom: 40px;
+    font-family: RobotoBold;
+    @media(max-width: 767px) {
+      font-size: 21px;
+    }
+  }
+  h3 {
+    font-family: RobotoBold;
+    @media(max-width: 767px) {
+      font-size: 18px;
+    }
+  }
+  p {
+    font-family: RobotoRegular;
+  }
+}
