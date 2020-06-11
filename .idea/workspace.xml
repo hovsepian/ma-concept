@@ -4,7 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/public/js/script.js" line="66" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1056579d-6fd0-4c1d-a0bc-a39b2835a184" name="Default Changelist" comment="" />
+    <list default="true" id="1056579d-6fd0-4c1d-a0bc-a39b2835a184" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,7 @@
         <counts>
           <entry key="conf" value="1" />
           <entry key="css" value="1" />
-          <entry key="env" value="2" />
+          <entry key="env" value="3" />
           <entry key="html" value="2" />
           <entry key="ico" value="1" />
           <entry key="js" value="17" />
@@ -50,7 +55,7 @@
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="17" />
           <entry key="PHP" value="32" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="40" />
           <entry key="SmartyConfig" value="1" />
@@ -58,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="env" value="18" />
+          <entry key="env" value="45" />
           <entry key="js" value="2095" />
           <entry key="php" value="7626" />
           <entry key="scss" value="5290" />
@@ -71,7 +76,7 @@
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="2093" />
           <entry key="PHP" value="3040" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="PLAIN_TEXT" value="45" />
           <entry key="SCSS" value="5290" />
         </counts>
       </usages-collector>
@@ -97,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="true" current-in-tab="true">
+      <file pinned="true" current-in-tab="false">
         <entry file="remoteDeploymentFS://&lt;b2523afa-92af-46c5-9e81-cdc8e3a390c3&gt;/var/www/html/websitenow.online/monument/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;b2523afa-92af-46c5-9e81-cdc8e3a390c3&gt;/var/www/html/websitenow.online/monument/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -172,6 +186,9 @@
       <find>hover</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -215,6 +232,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/resources/views/Home.blade.php" />
         <option value="&lt;b2523afa-92af-46c5-9e81-cdc8e3a390c3&gt;/var/www/html/websitenow.online/monument/public/index.php" />
+        <option value="&lt;b2523afa-92af-46c5-9e81-cdc8e3a390c3&gt;/var/www/html/websitenow.online/monument/.env" />
       </list>
     </option>
   </component>
@@ -351,6 +369,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -363,6 +382,11 @@
             <path>
               <item name="rub-laravel" type="b2602c69:ProjectViewProjectNode" />
               <item name="rub-laravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rub-laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rub-laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,12 +435,12 @@
       <workItem from="1591786698734" duration="6372000" />
       <workItem from="1591794638736" duration="632000" />
       <workItem from="1591796389750" duration="1273000" />
-      <workItem from="1591857284437" duration="7713000" />
+      <workItem from="1591857284437" duration="8949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51716000" />
+    <option name="totallyTimeSpent" value="52952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
